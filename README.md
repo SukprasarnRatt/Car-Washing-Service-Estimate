@@ -12,19 +12,32 @@ The program simulates a car washing service estimate generator. It:
 - Outputs a detailed estimate valid for 30 days.
 
 ## 💡 Sample Output
-'''
-Welcome to PoPo's Car Washing Service
-Estimate for car washing service
 
 How many number of small cars would you like washed? 3
 
 How many number of large cars would you like washed? 1
+
 Cost: $110
+
 Tax: $6.6
+
 ====================================
+
 Total estimate: $116.6
+
 This estimate is valid for 30 days
+
 Thank you for using PoPo's Car Washing Service
+
 Have a nice day!
+
 ====================================
-'''
+
+
+## 🛠️ How to Compile and Run
+
+To compile and run this program on your terminal:
+
+```bash
+g++ -std=c++17 main.cpp -o main
+./main
