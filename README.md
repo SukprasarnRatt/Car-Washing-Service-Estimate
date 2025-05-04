@@ -12,7 +12,7 @@ The program simulates a car washing service estimate generator. It:
 - Outputs a detailed estimate valid for 30 days.
 
 ## 💡 Sample Output
-
+'''
 Welcome to PoPo's Car Washing Service
 Estimate for car washing service
 
@@ -27,3 +27,4 @@ This estimate is valid for 30 days
 Thank you for using PoPo's Car Washing Service
 Have a nice day!
 ====================================
+'''
